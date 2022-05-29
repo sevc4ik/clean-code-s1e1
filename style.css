@@ -22,7 +22,7 @@
 
 @media (max-width: 768px) {
 
-  .header-container { 
+  .header-container {
     text-align: center;
   }
 
@@ -140,7 +140,7 @@ input,button{
 }
 
 .task-item > .task {
-  width: 226px
+  width: 226px;
 }
 
 .button.delete-button .task-item-img {
@@ -155,13 +155,13 @@ input,button{
 
 /* Completed */
 .tasks-wrapper#completed-tasks .task-label {
-  text-decoration: line-through
+  text-decoration: line-through;
   color: #888;
 }
 
 /* Edit Task */
 .tasks-wrapper .task-item .task {
-  display: none
+  display: none;
 }
 
 .tasks-wrapper .task-item.edit-mode .task {
