@@ -50,11 +50,13 @@ ul {
   padding: 0px;
 }
 
-.task-item, .tasks-heading {
+.task-item,
+.tasks-heading {
   list-style: none;
 }
 
-input,button{
+input,
+button{
   outline: none;
 }
 
